@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**roni96/roni96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, me chamo Romilson e este é meu espaço dedicado aos meus projetos.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Sou Analista de redes de computadores.
+- 🌱 Estou estudando, python, SQL e tecnicas de coleta e analise de dados.
+  
+- 👯 Softskils:
+  Redes L2 e L3,
+  Redes wirelles
+  HTML 5,
+  Python,
+  Exel,
+  
