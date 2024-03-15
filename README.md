@@ -7,7 +7,7 @@ Olá, me chamo Romilson e este espaço é dedicado aos meus projetos.
 - 👨‍💻  Softskils:
   Redes L2 e L3,
   Redes wirelles
-  Firewall (Fortigate)
+  Firewall (Fortigate),
   Python,
   Exel,
   
